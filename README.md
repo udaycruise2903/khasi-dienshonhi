@@ -53,6 +53,7 @@ Documentation and scripts of khasi-khasi Dictionary Digitalisation project
     <li> This single excel sheet was converted to .xml sheet using online excel-to-xml convertor(https://conversiontools.io/convert/excel-to-xml).</li>
     <li> In the khasi-dict.xml, The column names were edited to previous names using sublime editor and the file was edited to be compatible with external DTD.</li>
     <li> lexonomy was cloned to local computer and was run in the local host.</li>
+    <li> install docker, docker compose and run build-docker.sh in terminal and edit docker-compose.yml file</li>
     <li> A dictionary with title and description was created. under the configure/entry structure tab, a custom schema was chosen and a DTD was scripted.</li>
     <li> khasi-dict.xml file was uploaded to local host and then entry formatting settings were tweaked.</li>
 </ol>
